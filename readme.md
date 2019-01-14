@@ -12,8 +12,8 @@ Lecture notes and resources for the Machine learning training at DIAS
 - Python based software we are going to use
 - ML seminar
 
-10 January 2019 -- Hands-on session 1:
+14 January 2019 -- Hands-on session 1:
 - Basic machine learning algorithms written in scikit-learn
 
-14 January 2019 -- Hands-on session 2:
+16 January 2019 -- Hands-on session 2:
 - Deep learning with Convolutional Neural Networks written in Keras/TensorFlow
