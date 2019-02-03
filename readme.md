@@ -22,8 +22,11 @@ Lecture notes and resources for the Machine learning training at DIAS
 - continuation of the scikit-learn practical session
 - exercises
 
-xx February 2019
-- neural network (perceptron)
+4 February 2019
+- neural network
 - deep learning neural networks
-- Deep learning with Convolutional Neural Networks written in Keras/TensorFlow
-- Hands on session (developing an auto-encoder)
+- Deep learning with Convolutional Neural Networks
+- Encoder-Decoder, Auto-encoder
+- GAN
+- Keras/TensorFlow
+- Hands on session in Keras (developing a NN to classify stars/QSOs; developing a deep convNN auto-encoder for finding transients)
